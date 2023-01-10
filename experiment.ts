@@ -127,7 +127,7 @@ const runAll = async(): Promise<void> => {
                 value: {
                     delegatorAddress: alice,
                     validatorAddress: validator,
-                    amount: { denom: "uatom", amount: "10000", },
+                    amount: { denom: "uatom", amount: "1000", },
                 },
               },
         ],
